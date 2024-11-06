@@ -7,7 +7,6 @@ Welcome to the **10,000** game score tracker! This app is designed to simplify s
 
 - [Features](#features)
 - [Installation](#installation)
-- [Configuration](#configuration)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -45,18 +44,6 @@ Welcome to the **10,000** game score tracker! This app is designed to simplify s
    flutter run
    ```
 
-## ⚙️ Configuration
-
-To use your custom logo:
-
-1. Replace the `logo.png` image in the `assets` folder with your logo.
-2. Update `pubspec.yaml` if needed:
-
-   ```yaml
-   flutter:
-     assets:
-       - assets/logo.png
-   ```
 
 ## 🚀 Usage
 
