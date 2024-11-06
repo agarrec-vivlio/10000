@@ -9,7 +9,6 @@ Welcome to the **10,000** game score tracker! This app is designed to simplify s
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🌟 Features
 
